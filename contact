@@ -1,0 +1,32 @@
+n">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+<h1>my home</h1>
+<hr>
+<ol>
+
+<li><a href="index.html">home</a></li>
+<li><a href="contact.html">contact</a></li>
+<li><a href="about.html">about</a></li>
+<li><a href="gelery.html">gelery</a></li>
+
+</ol>
+
+<hr><hr><h1>my contact</h1>
+
+<hr>
+
+<ol>
+ <li><a href="mailto:john@gmail.com">john@gmail.com</a></li>
+ <li><a href="https://facebook.com">Facebook</a></li>
+</ol>
+
+
+
+</body>
+</html>
