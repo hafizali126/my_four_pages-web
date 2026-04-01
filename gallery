@@ -1,0 +1,54 @@
+tml>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <h1>my home</h1>
+    <hr>
+    <ol>
+
+        <li><a href="index.html">home</a></li>
+        <li><a href="contact.html">contact</a></li>
+        <li><a href="about.html">about</a></li>
+        <li><a href="gelery.html">gelery</a></li>
+
+    </ol>
+
+
+    <hr><h1>my gelery</h1>
+
+    <img src="images (1).jpg" alt="bird" width"50"hight"100>
+    <p>I love my home because it is the safest and happiest place for me. </p>
+
+
+    <br>
+    <hr>
+
+
+    <p>W3Schools provides excellent tutorials and a reference for all HTML tags and CSS properties.</p>
+
+
+    <img src="images (2).jpg" alt="phole">
+
+
+    <br>
+    <p><img src="images (3).jpg" alt="phoole" height="250" width="150" top="right">The Mozilla Developer Network (MDN)
+        offers high-quality documentation for web development.The Mozilla Developer Network (MDN) offers high-quality
+        documentation for web development.The Mozilla Developer Network (MDN) offers high-quality documentation for web
+        development.The Mozilla Developer Network (MDN) offers high-quality documentation for web development.The
+        Mozilla Developer Network (MDN) offers high-quality documentation for web development.</p>
+
+
+
+
+
+
+</body>
+
+</html>
