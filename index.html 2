@@ -1,0 +1,78 @@
+
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <h1>my home</h1>
+    <hr>
+    <ol>
+
+        <li><a href="index.html">home</a></li>
+        <li><a href="contact.html">contact</a></li>
+        <li><a href="about.html">about</a></li>
+        <li><a href="gelery.html">gelery</a></li>
+
+    </ol>
+    <hr>
+    <hr>
+    <h1>HTML & CSS</h1>
+    <p>: Design and Build Websites by Jon Duckett. </p>
+
+    <p><i>This book is widely praised for its full-color, visually-driven approach that makes learning accessible to
+            everyone, including designers and marketers, not just programmers. It covers HTML5 and CSS3 fundamentals,
+            layout control, typography, and preparing media for the web. You can find more details and purchase options
+            on platforms like Amazon.com and Friendsbook.pk.</i></p>
+
+    <b><strong><em>Learning Web Design: A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics by Jennifer
+                Robbins.
+                This is a comprehensive guide that serves as a friendly introduction to building websites. The latest
+                editions incorporate modern techniques like Flexbox and Grids for page layout and include exercises and
+                quizzes to reinforce learning. It is available for purchase on sites like Daraz.pk.</em></strong></b>
+
+    <h3><cite>Head First HTML and CSS</cite></h3>
+    <p>by Elisabeth Robson and Eric Freeman. Known for its unique, engaging, and brain-friendly format, this book uses a
+        visually rich style to help you grasp the basics of HTML and CSS quickly.
+    </p>
+
+    <p>Sams Teach Yourself HTML, CSS, and JavaScript All in One by Julie C. Meloni and Jennifer Kyrnin. This book
+        provides an extensive, all-in-one resource, covering not just HTML and CSS, but also an introduction to
+        JavaScript, making it a valuable reference guide for ongoing learning.
+        HTML and CSS Book
+        HTML and CSS Book
+        +5</p>
+    <hr>
+    <hr>
+    <h1>My home about</h1>
+
+
+    <hr>
+    <hr>
+    <h1>Here are 10 simple lines about "My Home":</h1>
+    <ol>
+        <li>Here are 10 simple lines about "My Home":</li>
+        <li>My home is located in a quiet and peaceful neighborhood.</li>
+        <li>It has a small garden in the front with colorful flowers</li>
+        <li>Our house is painted in a soothing blue color and looks very clean</li>
+        <li>It is a two-story house with plenty of natural light and air</li>
+        <li>There are three comfortable bedrooms, a living room, and a kitchen.</li>
+        <li>My bedroom has a big window that offers a nice view of the surroundings.</li>
+        <li>There is a nice balcony where we sit and relax in the evenings.</li>
+        <li>My family spends quality time together in the living room.</li>
+        <li>I love my home because it is the safest and happiest place for me. </li>
+    </ol>
+    
+
+
+
+
+
+
+</body>
+
+</html>
